@@ -1,1 +1,1 @@
-# custom-i18n
+simple custom-i18n realization
